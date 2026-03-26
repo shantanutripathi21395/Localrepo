@@ -1,2 +1,2 @@
 # This is my Local Repo
-<p>this is a new feature</p>
+this is a new feature
